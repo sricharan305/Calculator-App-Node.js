@@ -1,7 +1,7 @@
 
 sql
 
-USE charanDB;
+USE charanDB; 
 
 CREATE TABLE EMPLOYEE(
     ID INTEGER,

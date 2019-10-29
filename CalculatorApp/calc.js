@@ -11,6 +11,8 @@ var operand_1 = null, operand_2 = null, operatorSign = null;
 
 display.value = null;
 
+
+//this function is called when operator buttons clicked
 function signButtonClick(id) {
     operatorSign = document.getElementById(id).value;
 
