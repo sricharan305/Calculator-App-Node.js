@@ -1,0 +1,26 @@
+
+
+#display{
+
+    width: 160px;
+    height: 55px;
+}
+
+button{
+
+    font-size: large;
+    padding: 10px;    
+    block-size: 50px;
+    width: 50px;
+    background-size: 3px;
+    color: navy;
+
+}
+
+#inside-div{
+    
+    background: #229999;
+
+    width: 400px;
+
+}
